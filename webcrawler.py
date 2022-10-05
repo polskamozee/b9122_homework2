@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import urllib.request
 #from urllib.request import Request
 
+# This is an intentional change of the file. 
 
 seed_url = "https://www8.gsb.columbia.edu"
 
